@@ -1,0 +1,6 @@
+../Core/Src/addTask.c:10:6:led_Red_test	8	static
+../Core/Src/addTask.c:13:6:led_Yellow_test	8	static
+../Core/Src/addTask.c:16:6:led_Green_test	8	static
+../Core/Src/addTask.c:19:6:led_Purple_test	8	static
+../Core/Src/addTask.c:22:6:led_White_test	8	static
+../Core/Src/addTask.c:25:6:led_Blue_test	8	static
